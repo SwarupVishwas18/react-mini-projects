@@ -83,6 +83,8 @@ a{
   cursor: pointer;
   display: flex;
   flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
   gap: 1rem;
 }
 
@@ -107,6 +109,7 @@ a{
   align-items: center;
   justify-content: space-between;
   font-size: 1rem;
+  gap: 2rem;
 }
 
 .manga-arena{
